@@ -1,0 +1,5 @@
+{
+    "cmake.configureArgs": [
+        "-DCMAKE_PREFIX_PATH=/Users/mmetwalli/miniforge3/lib/python3.9/site-packages/torch/share/cmake"
+    ]
+}
